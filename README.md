@@ -1,0 +1,1 @@
+# FSA-core : french sentiment analysis
